@@ -1,4 +1,3 @@
-# DevOps 50 Days Journey 🚀
 # 🚀 DevOps 50-Day Learning Journey
 
 This repository documents my **50-day DevOps learning journey**, covering Linux, Git, Docker, Kubernetes, CI/CD, AWS, Monitoring, Security, and more.
