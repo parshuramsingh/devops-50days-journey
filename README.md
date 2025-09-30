@@ -12,7 +12,7 @@ Each day includes hands-on practice, commands, notes, and mini-projects.
 | Day 1  | Linux Basics & Shell Commands        | ✅        |
 | Day 2  | Git & GitHub Basics                  | ✅       |
 | Day 3  | Git Branching & Workflows            | ✅       |
-| Day 4  | Bash Scripting & Automation          | ☐       |
+| Day 4  | Bash Scripting & Automation          | ✅        |
 | Day 5  | YAML Basics & Validation             | ☐       |
 | Day 6  | Docker: Containers & Images          | ☐       |
 | Day 7  | Docker Volumes & Networks            | ☐       |
