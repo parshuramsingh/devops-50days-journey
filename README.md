@@ -77,12 +77,5 @@ devops-50days-journey/
 └── final-capstone/
 ```
 
-* **Day-X.md** → Daily logs, commands, screenshots, learning notes
-* **docker-projects/** → Hands-on container projects
-* **kubernetes-projects/** → Deployments and Helm charts
-* **cicd-pipelines/** → CI/CD pipeline configurations
-* **aws-projects/** → Terraform + AWS setups
-* **final-capstone/** → Full end-to-end DevOps project
-
 ---
 
