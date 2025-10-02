@@ -1,21 +1,30 @@
 # 🚀 Day 1 – Linux Basics & Shell Commands
 
-## 📘 What I Learned
-- Linux is the foundation of DevOps.
-- File system hierarchy: /home, /etc, /var, etc.
-- Commands for navigation, file handling, and permissions.
+## 📘 Key Learnings
+- Linux is the **backbone of DevOps** — almost every tool, server, and container is built on it.  
+- Understood the **Linux file system hierarchy**:  
+  - `/home` → User directories  
+  - `/etc` → System configuration files  
+  - `/var` → Logs & variable data  
+- Explored **essential commands** for navigation, file handling, and permissions.  
 
-## 🛠 Commands Practiced
+## 🛠 Hands-on Practice
 ```bash
-pwd
-ls -la
-mkdir devops-practice
-cd devops-practice
-touch file1.txt
-echo "Hello DevOps" > file1.txt
-cat file1.txt
-cp file1.txt file2.txt
-mv file2.txt renamed.txt
-rm renamed.txt
-chmod 700 file1.txt
-ls -l file1.txt
+# Navigation & directory management
+pwd                      # Print current working directory
+ls -la                   # List files with details
+mkdir devops-practice    # Create a new directory
+cd devops-practice       # Move into the directory
+
+# File handling
+touch file1.txt                          # Create a new file
+echo "Hello DevOps" > file1.txt          # Write text into the file
+cat file1.txt                            # View file content
+cp file1.txt file2.txt                   # Copy file
+mv file2.txt renamed.txt                 # Rename/move file
+rm renamed.txt                           # Delete file
+
+# Permissions
+chmod 700 file1.txt                      # Grant owner full access
+ls -l file1.txt                          # Verify permissions
+
