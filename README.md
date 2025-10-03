@@ -17,7 +17,7 @@ I’ve already worked with some of these tools in real-world projects, but this 
 | 3   | Git Branching & Workflows | ✅ |
 | 4   | Bash Scripting & Automation | ✅ |
 | 5   | YAML Basics & Validation | ✅ |
-| 6   | Docker: Containers & Images | ☐ |
+| 6   | Docker: Containers & Images | ✅ |
 | 7   | Docker Volumes & Networks | ☐ |
 | 8   | Docker Compose Project | ☐ |
 | 9   | Kubernetes: Pods & Deployments | ☐ |
